@@ -245,7 +245,7 @@ form .button input:hover {
          <select class="form-control" id="role" name="role" aria-describedby="roleHelp" required>
 		<option selected>Select User Type</option>
 		<option value="Student">Student</option>
-		<option value="Alumini">Alumini</option>
+		<option value="Alumini">Alumni</option>
 		</select>
 		</div>
 		<br>
