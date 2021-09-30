@@ -293,7 +293,7 @@ form .button input:hover {
 						<option selected>Select User Type</option>
 						<option value="Admin">Admin</option>
 						<option value="Student">Student</option>
-						<option value="Alumini">Alumini</option>
+						<option value="Alumini">Alumni</option>
 					</select>
 				</div>
 
